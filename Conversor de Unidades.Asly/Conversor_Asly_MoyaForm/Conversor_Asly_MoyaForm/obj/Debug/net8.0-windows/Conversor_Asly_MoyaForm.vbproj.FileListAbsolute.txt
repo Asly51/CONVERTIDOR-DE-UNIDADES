@@ -1,0 +1,17 @@
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.Asly\Conversor_Asly_MoyaForm\Conversor_Asly_MoyaForm\bin\Debug\net8.0-windows\Conversor_Asly_MoyaForm.exe
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.Asly\Conversor_Asly_MoyaForm\Conversor_Asly_MoyaForm\bin\Debug\net8.0-windows\Conversor_Asly_MoyaForm.deps.json
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.Asly\Conversor_Asly_MoyaForm\Conversor_Asly_MoyaForm\bin\Debug\net8.0-windows\Conversor_Asly_MoyaForm.runtimeconfig.json
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.Asly\Conversor_Asly_MoyaForm\Conversor_Asly_MoyaForm\bin\Debug\net8.0-windows\Conversor_Asly_MoyaForm.dll
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.Asly\Conversor_Asly_MoyaForm\Conversor_Asly_MoyaForm\bin\Debug\net8.0-windows\Conversor_Asly_MoyaForm.pdb
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.Asly\Conversor_Asly_MoyaForm\Conversor_Asly_MoyaForm\obj\Debug\net8.0-windows\Conversor_Asly_MoyaForm.Form1.resources
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.Asly\Conversor_Asly_MoyaForm\Conversor_Asly_MoyaForm\obj\Debug\net8.0-windows\Conversor_Asly_MoyaForm.vbproj.GenerateResource.cache
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.Asly\Conversor_Asly_MoyaForm\Conversor_Asly_MoyaForm\obj\Debug\net8.0-windows\Conversor_Asly_MoyaForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.Asly\Conversor_Asly_MoyaForm\Conversor_Asly_MoyaForm\obj\Debug\net8.0-windows\Conversor_Asly_MoyaForm.AssemblyInfoInputs.cache
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.Asly\Conversor_Asly_MoyaForm\Conversor_Asly_MoyaForm\obj\Debug\net8.0-windows\Conversor_Asly_MoyaForm.AssemblyInfo.vb
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.Asly\Conversor_Asly_MoyaForm\Conversor_Asly_MoyaForm\obj\Debug\net8.0-windows\Conversor_Asly_MoyaForm.vbproj.CoreCompileInputs.cache
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.Asly\Conversor_Asly_MoyaForm\Conversor_Asly_MoyaForm\obj\Debug\net8.0-windows\Conversor_Asly_MoyaForm.dll
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.Asly\Conversor_Asly_MoyaForm\Conversor_Asly_MoyaForm\obj\Debug\net8.0-windows\refint\Conversor_Asly_MoyaForm.dll
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.Asly\Conversor_Asly_MoyaForm\Conversor_Asly_MoyaForm\obj\Debug\net8.0-windows\Conversor_Asly_MoyaForm.pdb
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.Asly\Conversor_Asly_MoyaForm\Conversor_Asly_MoyaForm\obj\Debug\net8.0-windows\Conversor_Asly_MoyaForm.genruntimeconfig.cache
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.Asly\Conversor_Asly_MoyaForm\Conversor_Asly_MoyaForm\obj\Debug\net8.0-windows\ref\Conversor_Asly_MoyaForm.dll
+C:\Users\mcedu\OneDrive\Escritorio\Conversor de Unidades.Asly\Conversor_Asly_MoyaForm\Conversor_Asly_MoyaForm\obj\Debug\net8.0-windows\Conversor_Asly_MoyaForm.Resources.resources
